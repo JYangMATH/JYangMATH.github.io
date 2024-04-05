@@ -487,3 +487,16 @@ ul.linklist li ul li a {
 #alphablock {
 	display: none;
 }
+
+<style>
+    ul {
+        list-style-type: none; /* 移除列表的标记 */
+        padding: 0; /* 移除padding使得间距为0 */
+        margin: 0; /* 移除margin使得间距为0 */
+    }
+    li {
+        /*background-color: #f0f0f0; /* 设置背景色以便看到间距效果 */
+        margin-bottom: 10px; /* 设置底部外边距为10px */
+        padding: 10px; /* 设置内边距为5px */
+    }
+</style>
