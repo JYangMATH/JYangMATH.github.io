@@ -1,0 +1,107 @@
+﻿ul.orglist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h3 {
+    font-size: 95%;
+}
+
+.personlink {
+    text-decoration: none;
+}
+
+.personlinkbold {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.slideslink {
+    font-weight: bold;
+}
+
+td.day, td.break, td.registration, td.talk, td.talki, td.talkit, td.talk1, td.talk2, td.talk3 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+td.time {
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 10%;
+    text-align: left;
+    vertical-align: top;
+    cellspacing: 1ex;
+    background-color: #DDDDDD;
+}
+
+td.day {
+    width: 30%;
+    text-align: center;
+    vertical-align: center;
+    background-color: #DDDDDD;
+}
+
+td.break {
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    color: white;
+    /* background-color: #FFCC9A; */
+    font-weight: bold;
+    background-color: black;
+    text-align: center;
+    vertical-align: center;
+}
+
+td.registration {
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    background-color: #888888;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: center;
+}
+
+td.talki, td.talkit, td.talk1, td.talk2, td.talk3 {
+    text-align: left;
+    vertical-align: top;
+}
+
+td.talki {
+    /* background-color: #9BC3DA; */
+    /* background-color: #008800; */
+    background-color: #FFCC00;
+    color: black;
+    font-weight: bold;
+}
+
+td.talkit {
+    background-color: #FFCC00;
+    color: black;
+    font-weight: bold;
+}
+
+td.talk1 {
+    /* background-color: #CCD9E6; */
+    background-color: #EEFFEE;
+}
+
+td.talk2 {
+    /* background-color: #CCFFFF; */
+    background-color: #FFEEEE;
+}
+
+td.talk3 {
+    /* background-color: #00BDFF; */
+    background-color: #EEEEFF;
+}
